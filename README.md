@@ -29,6 +29,7 @@ A running log of things I'm learning to build strong core software engineering s
 | [Book: Python 201](https://leanpub.com/python201)                                                                                         |          |
 | [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)                        |          |
 | [Book: Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)                               |          |
+| [Book: Python Crash Course](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf)                               |    ✓      |
 
 ### Data Structures and Algorithms
 
